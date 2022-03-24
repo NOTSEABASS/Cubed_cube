@@ -11,6 +11,7 @@ public struct SpecialCell
     
 }
 
+
 public class LevelManager : MonoBehaviour
 {
     public static LevelManager Instance;
